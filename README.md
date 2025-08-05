@@ -1,5 +1,4 @@
-# Single-Cycle-Processor-MIPS-
-OVERVIEW
+# Single-Cycle-Processor-MIPS-OVERVIEW
 # Architecture:
 The single-cycle MIPS processor was designed to execute MIPS instructions within a single clock cycle, prioritizing simplicity and performance. The architecture includes core components such as the Program Counter (PC), Instruction Memory, Control Unit, Register File, ALU, Data Memory, and Sign-Extender. Each module was implemented in Verilog HDL, adhering closely to the MIPS instruction set specification to ensure accurate execution.
 
